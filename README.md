@@ -1,3 +1,10 @@
+## 需求
+
+仿造地址：http://www.yixinss.com/
+
+详细需求
+http://note.youdao.com/noteshare?id=6fc8683e1eb513ea1e3270bd817f317b&sub=E298BF9BE3804D699140AF990F67C0B7
+
 ## 技术选型
 
 思考了很多的技术选型和架构设计，最终选择了服务器端渲染和API服务公用的形式去开发，
